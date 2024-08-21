@@ -1,0 +1,38 @@
+/*Estilo fonte de navegação*/
+nav{
+    background-color: rgb(120, 71, 180);
+    padding: 10px 0;
+}
+ 
+nav ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+}
+nav ul li{
+    margin: auto;
+}
+ 
+nav ul li{
+    margin: 0 15px;
+}
+ 
+nav ul li a{
+ color: rgb(87, 171, 190);
+ text-decoration: none;
+ font-size: 18px;
+ transition: 0.3s;
+  }
+ 
+}
+ 
+nav ul li a:hover{
+ color: rgb(66, 60, 60);
+}
+
+
+p{
+    font-weight:bold;
+}
